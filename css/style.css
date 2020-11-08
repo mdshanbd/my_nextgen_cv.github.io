@@ -628,6 +628,11 @@ footer {
     color: var(--ternary);
 }
 
+#footer_link {
+
+    color: var(--ternary)
+}
+
 /* Media Queries  */
 
 @media (max-width: 1280px) {
